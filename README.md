@@ -9,7 +9,7 @@ At each time step the filter will also get observation and control data.
 ## Running the Code
 * mkdir build && cd build
 * cmake .. && make 
-* ./particle_filter
+* cd .. && ./build/particle_filter
 
 My responsibility was to implement `src/particle_filter.cpp`, and 
 `src/particle_filter.h`
