@@ -25,12 +25,9 @@ The directory structure of this repository is as follows:
 
 ```
 root
-|   build.sh
-|   clean.sh
 |   CMakeLists.txt
 |   README.md
-|   run.sh
-|
+|   
 |___data
 |   |   control_data.txt
 |   |   gt_data.txt
